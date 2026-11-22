@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv*/
+venv/
+ENV/
+
+# Blender backups & temporary renders
+*.blend1
+*.blend2
+renders/
+output/
+tmp/
+scratch/
+.cache/
+
+# OS metadata
+.DS_Store
+Thumbs.db
